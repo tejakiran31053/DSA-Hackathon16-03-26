@@ -18,23 +18,17 @@ public class Main_method {
 
         while(true){
 
-            System.out.println("\n===== CITY MOVE =====");
-
+            System.out.println("\n Smart Public Transport and Traffic Management System");
             System.out.println("1. Add Route");
             System.out.println("2. Show Routes");
             System.out.println("3. Delete Route");
-
             System.out.println("4. Add Passenger");
             System.out.println("5. Show Passengers");
-
             System.out.println("6. Add to Boarding Queue");
             System.out.println("7. Board Passenger");
-
             System.out.println("8. Rotate Bus (from CSV)");
-
             System.out.println("9. Add Pass");
             System.out.println("10. Validate Pass");
-
             System.out.println("11. Report Incident");
             System.out.println("12. Show Incidents");
             System.out.println("13. Handle Incident");
